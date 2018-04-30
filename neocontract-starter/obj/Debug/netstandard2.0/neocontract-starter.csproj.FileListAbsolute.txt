@@ -1,0 +1,9 @@
+/Users/cody/project/learn-plan/neo/neocontract/neocontract-starter/neocontract-starter/bin/Debug/netstandard2.0/neocontract-starter.deps.json
+/Users/cody/project/learn-plan/neo/neocontract/neocontract-starter/neocontract-starter/bin/Debug/netstandard2.0/neocontract-starter.dll
+/Users/cody/project/learn-plan/neo/neocontract/neocontract-starter/neocontract-starter/bin/Debug/netstandard2.0/neocontract-starter.pdb
+/Users/cody/project/learn-plan/neo/neocontract/neocontract-starter/neocontract-starter/obj/Debug/netstandard2.0/neocontract-starter.csprojResolveAssemblyReference.cache
+/Users/cody/project/learn-plan/neo/neocontract/neocontract-starter/neocontract-starter/obj/Debug/netstandard2.0/neocontract-starter.csproj.CoreCompileInputs.cache
+/Users/cody/project/learn-plan/neo/neocontract/neocontract-starter/neocontract-starter/obj/Debug/netstandard2.0/neocontract-starter.AssemblyInfoInputs.cache
+/Users/cody/project/learn-plan/neo/neocontract/neocontract-starter/neocontract-starter/obj/Debug/netstandard2.0/neocontract-starter.AssemblyInfo.cs
+/Users/cody/project/learn-plan/neo/neocontract/neocontract-starter/neocontract-starter/obj/Debug/netstandard2.0/neocontract-starter.dll
+/Users/cody/project/learn-plan/neo/neocontract/neocontract-starter/neocontract-starter/obj/Debug/netstandard2.0/neocontract-starter.pdb

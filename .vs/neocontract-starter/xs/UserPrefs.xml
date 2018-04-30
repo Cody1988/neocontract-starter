@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{2EEFCA4D-D1DB-4724-8A94-7F0DD20D5C74}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="neocontract-starter-unittest/Program.cs">
+    <Files>
+      <File FileName="neocontract-starter-helloworld/HelloWorld.cs" Line="7" Column="6" />
+      <File FileName="neocontract-starter/Calc.cs" Line="15" Column="38" />
+      <File FileName="neocontract-starter-unittest/Program.cs" Line="32" Column="30" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.neocontract-starter-helloworld FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.neocontract-starter-unittest PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

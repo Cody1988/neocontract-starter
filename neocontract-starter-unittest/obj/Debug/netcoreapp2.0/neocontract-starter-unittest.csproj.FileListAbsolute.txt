@@ -1,0 +1,11 @@
+/Users/cody/project/learn-plan/neo/neocontract/neocontract-starter/neocontract-starter-unittest/bin/Debug/netcoreapp2.0/neocontract-starter-unittest.deps.json
+/Users/cody/project/learn-plan/neo/neocontract/neocontract-starter/neocontract-starter-unittest/bin/Debug/netcoreapp2.0/neocontract-starter-unittest.runtimeconfig.json
+/Users/cody/project/learn-plan/neo/neocontract/neocontract-starter/neocontract-starter-unittest/bin/Debug/netcoreapp2.0/neocontract-starter-unittest.runtimeconfig.dev.json
+/Users/cody/project/learn-plan/neo/neocontract/neocontract-starter/neocontract-starter-unittest/bin/Debug/netcoreapp2.0/neocontract-starter-unittest.dll
+/Users/cody/project/learn-plan/neo/neocontract/neocontract-starter/neocontract-starter-unittest/bin/Debug/netcoreapp2.0/neocontract-starter-unittest.pdb
+/Users/cody/project/learn-plan/neo/neocontract/neocontract-starter/neocontract-starter-unittest/obj/Debug/netcoreapp2.0/neocontract-starter-unittest.csprojResolveAssemblyReference.cache
+/Users/cody/project/learn-plan/neo/neocontract/neocontract-starter/neocontract-starter-unittest/obj/Debug/netcoreapp2.0/neocontract-starter-unittest.csproj.CoreCompileInputs.cache
+/Users/cody/project/learn-plan/neo/neocontract/neocontract-starter/neocontract-starter-unittest/obj/Debug/netcoreapp2.0/neocontract-starter-unittest.AssemblyInfoInputs.cache
+/Users/cody/project/learn-plan/neo/neocontract/neocontract-starter/neocontract-starter-unittest/obj/Debug/netcoreapp2.0/neocontract-starter-unittest.AssemblyInfo.cs
+/Users/cody/project/learn-plan/neo/neocontract/neocontract-starter/neocontract-starter-unittest/obj/Debug/netcoreapp2.0/neocontract-starter-unittest.dll
+/Users/cody/project/learn-plan/neo/neocontract/neocontract-starter/neocontract-starter-unittest/obj/Debug/netcoreapp2.0/neocontract-starter-unittest.pdb

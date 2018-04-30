@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "neocontract-starter", "neocontract-starter\neocontract-starter.csproj", "{3CDE10FD-808A-42DC-934B-0CE554C20D1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "neocontract-starter-unittest", "neocontract-starter-unittest\neocontract-starter-unittest.csproj", "{2EEFCA4D-D1DB-4724-8A94-7F0DD20D5C74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "neocontract-starter-helloworld", "neocontract-starter-helloworld\neocontract-starter-helloworld.csproj", "{BB41B5E2-BD76-4204-BB2B-1D6F804A4379}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CDE10FD-808A-42DC-934B-0CE554C20D1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CDE10FD-808A-42DC-934B-0CE554C20D1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CDE10FD-808A-42DC-934B-0CE554C20D1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CDE10FD-808A-42DC-934B-0CE554C20D1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EEFCA4D-D1DB-4724-8A94-7F0DD20D5C74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EEFCA4D-D1DB-4724-8A94-7F0DD20D5C74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EEFCA4D-D1DB-4724-8A94-7F0DD20D5C74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EEFCA4D-D1DB-4724-8A94-7F0DD20D5C74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB41B5E2-BD76-4204-BB2B-1D6F804A4379}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB41B5E2-BD76-4204-BB2B-1D6F804A4379}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB41B5E2-BD76-4204-BB2B-1D6F804A4379}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB41B5E2-BD76-4204-BB2B-1D6F804A4379}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
